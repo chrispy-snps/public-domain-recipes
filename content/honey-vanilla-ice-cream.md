@@ -5,6 +5,8 @@ date: 2023-07-28
 author: "Ruby-Dragon"
 ---
 
+# Honey Vanilla Ice Cream
+
 - ⏲️ Prep time: 5 min, + 2 hours minimum chill time
 - 🍳 "Cook" time: 30 min + overnight chill time
 - 🍽️ Servings: 8-10

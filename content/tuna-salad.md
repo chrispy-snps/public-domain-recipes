@@ -6,7 +6,9 @@ author: "scary90"
 
 ---
 
-![Tuna Salad](/pix/tuna-salad.webp)
+# Simple Tuna Salad
+
+![Tuna Salad](../static/pix/tuna-salad.webp)
 
 - ⏲️ Prep time: 5 min
 - 🍽️ Servings: 3

@@ -5,6 +5,8 @@ tags: ['italian', 'pasta', 'quick', 'seafood', 'shrimp', 'garlic']
 author: nelson-morrow
 ---
 
+# Garlic Butter Seafood Pasta
+
 This is a simple outline of how to cook a creamy seafood pasta with white wine butter
 sauce.
 

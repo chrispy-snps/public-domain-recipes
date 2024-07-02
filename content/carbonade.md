@@ -5,6 +5,8 @@ tags: ['stew', 'beef']
 author: "1FJSSps89rEMtYm8Vvkp2uyTX9MFpZtcGy"
 ---
 
+# Carbonade Flamande (Traditional Flemish beef stew)
+
 This one is a delicious slow cooked beef stewed in beer.
 The smoked bacon is not in the traditional recipe but it's good. Don't add it if you want the real deal.
 

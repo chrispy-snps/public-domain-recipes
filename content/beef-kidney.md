@@ -5,6 +5,8 @@ tags: ['beef']
 author: philip-wittamore
 ---
 
+# Beef Kidney
+
 My wife's beef kidney recipe
 
 - ⏲️ Prep time: 10 min

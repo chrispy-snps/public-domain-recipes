@@ -4,6 +4,8 @@ date: 2021-03-16
 tags: ['chicken', 'french', 'wine']
 ---
 
+# Chicken in Red Wine Vinegar Sauce
+
 - ⏲️ Prep time: 15 min
 - 🍳 Cook time: 25 min
 - 🍽️ Servings: 6

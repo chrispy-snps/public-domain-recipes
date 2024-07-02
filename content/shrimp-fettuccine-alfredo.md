@@ -5,6 +5,8 @@ tags: ['pasta', 'italian', 'shrimp']
 date: 2022-06-29
 ---
 
+# 'Shrimp Fettuccine Alfredo'
+
 Shrimp fettuccine alfredo is one of the best tasting and low effort dishes.
 The recipe i give below yields an alfredo sauce that is a bit on the thicker side.
 If you want a thinner sauce, adding a touch or two more milk will thin out the sauce.

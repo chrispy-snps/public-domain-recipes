@@ -5,6 +5,8 @@ tags: ['sauce', 'steak']
 author: "Vili Kangas"
 ---
 
+# Pepper Sauce
+
 A very basic pepper sauce that is great for steaks and other dishes
 
 - ⏲️ Prep time: 2 min

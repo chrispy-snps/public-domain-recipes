@@ -5,6 +5,8 @@ tags: ['american', 'side', 'fruit']
 author: joe-powerhouse
 ---
 
+# Savory Squash
+
 - Prep Time: 5 mins
 - Cook Time: 1 Hour
 

@@ -5,6 +5,8 @@ tags: ['russian', 'pasta', 'mushrooms']
 author: aayla-semyonova
 ---
 
+# Mushroom Stroganov
+
 Prep time: 10 Minutes
 Cook time: 20 Minutes
 Servings: 2

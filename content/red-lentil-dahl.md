@@ -5,6 +5,8 @@ date: 2022-08-04
 author: joel-maxuel
 ---
 
+# Red Lentil Dahl
+
 - ⏲️ Prep time: 10 min
 - 🍳 Cook time: 50 min
 - 🍽️ Servings: 6

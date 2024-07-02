@@ -5,6 +5,8 @@ tags: ['italian', 'pasta', 'beef', 'pork', 'cheesefare']
 author: closedgl
 ---
 
+# Spaghetti and Meatballs
+
 - ⏲️Prep time: 20 min
 - 🍳 Cook time: 40 min
 - 🍽️Servings: 6

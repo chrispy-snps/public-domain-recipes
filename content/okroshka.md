@@ -5,6 +5,8 @@ tags: ['basic', 'spread', 'quick', 'russian', 'soup']
 author: mons
 ---
 
+# Russian Okroshka
+
 A hearty and healthy cold soup, which is especially good to eat in the hot season. Author's recipe.
 
 ## Ingredients

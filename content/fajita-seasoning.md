@@ -5,6 +5,8 @@ tags: ['basic', 'mexican', 'fasting']
 author: carl-zimmerman
 ---
 
+# Fajita Seasoning
+
 Simple seasoning mix similar to Old El Paso. Can be used for any Mexican dishes or plain meats.
 
 ## Ingredients

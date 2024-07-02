@@ -5,6 +5,8 @@ tags: ['belgian', 'potato']
 author: alpo
 ---
 
+# Stoemp
+
 Mashed potatoes in Belgian style
 
 - ⏲️ Prep time: 10 min

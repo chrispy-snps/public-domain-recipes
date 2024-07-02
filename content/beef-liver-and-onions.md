@@ -5,6 +5,8 @@ date: 2023-04-28
 author: "POI"
 ---
 
+# Liver and Onions
+
 Though most people find liver barely tolerable to eat, it is extremely nutritious (the most nutrient dense food in the world!). 
 If you really can't stand the taste of it, add more vegetables and lower the amount of liver, as even a very small portion is highly beneficial.
 

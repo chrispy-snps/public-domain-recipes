@@ -5,6 +5,8 @@ date: 2022-08-09
 author: joel-maxuel
 ---
 
+# Perfect Potato Salad
+
 - ⏲️ Prep time: 15 min
 - 🍳 Cook time: 5 min
 - 🍽️ Servings: 8

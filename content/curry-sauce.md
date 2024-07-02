@@ -5,6 +5,8 @@ tags: ['sauce', 'indian', 'curry']
 author: "Fiddelate"
 ---
 
+# Curry sauce
+
 I like to make double this amount and freeze the rest.
 
 - ⏲️ Prep time: 20 min

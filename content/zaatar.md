@@ -5,6 +5,8 @@ tags:	['palestinian', 'lebanese', 'mediterranean', 'middle eastern', 'spice']
 author:	Wael Karram
 ---
 
+# Zaatar
+
 This is a traditional Palestinian-Lebanese way of making Zaatar.
 It can be then eaten by dipping bread in olive oil and in the Zaatar or as part of another recipe.
 Will hold for a long time in the pantry.

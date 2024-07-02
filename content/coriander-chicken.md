@@ -5,6 +5,8 @@ tags: ['indian', 'lunch', 'spicy']
 author: chetan-basuray
 ---
 
+# Coriander Chicken
+
 Boneless chicken marinated in a gravy of yoghurt and coriander
 
 - ⏲️ Prep time: 30 min

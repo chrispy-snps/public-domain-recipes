@@ -5,6 +5,8 @@ tags: ['filipino', 'chicken']
 author: jess-calape
 ---
 
+# Kalderetang Manok
+
 Classic Filipino dish, great paired with freshly cooked rice and a bottle of Coca Cola.
 
 - ⏲️ Prep time: 30 min.

@@ -5,6 +5,8 @@ date: 2024-05-09
 author: "ihalseide"
 ---
 
+# Pretzels
+
 - ⏲️ Prep time: 40 minutes (not including dough rise time)
 - 🍳 Cook time: 15 min
 - 🍽️ Servings: makes 4 large pretzels

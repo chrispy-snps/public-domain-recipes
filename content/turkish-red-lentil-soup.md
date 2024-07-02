@@ -5,6 +5,8 @@ date: 2022-08-09
 author: joel-maxuel
 ---
 
+# Turkish Red Lentil Soup
+
 Serve with a squeeze of lemon and alongside turmeric flatbread.
 
 - ⏲️ Prep time: 10 min

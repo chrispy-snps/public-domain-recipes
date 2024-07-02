@@ -5,6 +5,8 @@ date: 2022-08-09
 author: joel-maxuel
 ---
 
+# Easy Chicken and Rice Casserole
+
 - ⏲️ Prep time: 5 min
 - 🍳 Cook time: 40 min
 - 🍽️ Servings: 4

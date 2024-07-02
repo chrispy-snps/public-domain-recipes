@@ -4,6 +4,8 @@ date: 2021-03-12
 tags: ['fish', 'sandwich', 'quick', 'cheesefare']
 ---
 
+# Tuna Sub
+
 Use the best tuna you can find. I like oil-packed but water is OK. Someone you know has a tuna salad recipe.
 
 ## Ingredients

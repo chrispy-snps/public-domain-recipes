@@ -5,6 +5,8 @@ tags: ['salad', 'basic', 'fasting']
 author: martin-chrzanowski
 ---
 
+# Lemon juice salad dressing
+
 A dressing that goes well on lettuce or any other mixed greens.
 
 ## Ingredients

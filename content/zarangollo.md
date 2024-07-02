@@ -5,6 +5,8 @@ tags: ['spanish', 'mediterranean', 'side', 'quick']
 author: enrique95
 ---
 
+# Zarangollo
+
 Simple veggie starter/side dish from Murcia (Southeastern Spain)
 
 - ⏲️ Prep time: 5 min

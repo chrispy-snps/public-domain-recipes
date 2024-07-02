@@ -4,6 +4,8 @@ date: 2021-03-12
 tags: ['sweet', 'dessert', 'cake', 'cheesefare']
 ---
 
+# Scandinavian Coffee Cake
+
 * ⏲️ Prep time: 15 min
 * 🍳 Cook time: ≈ 3 hours
 * 🍽️ Servings: 1 cake

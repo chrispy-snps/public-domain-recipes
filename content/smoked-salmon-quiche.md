@@ -5,6 +5,8 @@ date: 2022-09-10
 author: joel-maxuel
 ---
 
+# Smoked Salmon Quiche
+
 
 - ⏲️ Prep time: 60 min
 - 🍳 Cook time: 30 min

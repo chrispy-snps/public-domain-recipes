@@ -4,7 +4,9 @@ tags: ['swedish', 'quick', 'sausage']
 date: 2022-07-16
 ---
 
-![Korv Stroganoff](/pix/korv-stroganoff.webp)
+# Korv Stroganoff
+
+![Korv Stroganoff](../static/pix/korv-stroganoff.webp)
 
 This easy Swedish dish makes for a great weeknight dinner.
 

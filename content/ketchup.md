@@ -4,6 +4,8 @@ date: 2021-03-12
 tags: ['basic', 'sauce', 'fasting']
 ---
 
+# Ketchup
+
 - Ketchup/Catsup
 
 ## Ingredients

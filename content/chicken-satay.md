@@ -5,6 +5,8 @@ date: 2022-07-10
 author: "Eric Lindberg"
 ---
 
+# Chicken Satay with Peanut Sauce 
+
 - ⏲️ Prep time: 10 min
 - 🍳 Cook time: 15 min
 - 🍽️ Servings: 4

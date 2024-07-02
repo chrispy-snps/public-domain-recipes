@@ -5,6 +5,8 @@ tags: ['pork', 'soup', 'spanish', 'quick']
 author: siggines
 ---
 
+# Chorizo & Chickpea Soup
+
 Recommend serving with corn bread.
 
 - 🍳 Cook time: 10-15 min

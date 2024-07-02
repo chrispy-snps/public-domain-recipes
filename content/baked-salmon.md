@@ -5,6 +5,8 @@ tags: ['basic', 'fish']
 author: carl-zimmerman
 ---
 
+# Baked Salmon
+
 Simple method for making a good serving of salmon. Goes well with just about anything.
 
 - ⏲️ Prep time: 5 min

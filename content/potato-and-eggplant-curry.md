@@ -5,6 +5,8 @@ tags: ['indian', 'curry', 'potato', 'fasting']
 author: luke-chadwick
 ---
 
+# Potato and Eggplant (Aubergine) Curry
+
 A simple and tasty curry that is easy to customise.
 
 ## Ingredients

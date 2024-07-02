@@ -5,6 +5,8 @@ date: 2022-6-10
 author: "Marcus Howser"
 ---
 
+# Blueberry Muffins
+
 ⏲️ Prep time: 10 min  
 🍳 Cook time: 30 min  
 🍽️ Servings: 12

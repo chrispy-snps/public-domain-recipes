@@ -5,7 +5,9 @@ date: 2022-06-24
 author: "SofianeHamlaoui"
 ---
 
-![croquemsr](/pix/croque-monsieur.webp)
+# Croque-monsieur bites
+
+![croquemsr](../static/pix/croque-monsieur.webp)
 
 - ⏲️ Prep time: 10 min
 - 🍳 Cook time: 10 min

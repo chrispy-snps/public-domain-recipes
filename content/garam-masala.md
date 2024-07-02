@@ -5,6 +5,8 @@ tags: ['indian', 'spice']
 author: chetan-basuray
 ---
 
+# Garam Masala
+
 A spice mixture for most Indian dishes
 
 ## Ingredients

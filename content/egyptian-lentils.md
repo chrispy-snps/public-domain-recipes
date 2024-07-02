@@ -5,6 +5,8 @@ date: 2022-09-10
 author: joel-maxuel
 ---
 
+# Egyptian Lentils
+
 
 - ⏲️ Prep time: 5 min
 - 🍳 Cook time: 40 min

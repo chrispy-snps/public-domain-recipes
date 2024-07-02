@@ -5,6 +5,8 @@ tags: ['basic', 'bread', 'chicken']
 author: front3ndninja
 ---
 
+# Spatchcock Chicken
+
 ## Ingredients
 
 - 2 (3 1/2) pound whole chickens, wingtips removed

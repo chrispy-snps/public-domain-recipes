@@ -5,6 +5,8 @@ date: 2022-09-08
 author: "bernardo-slongo"
 ---
 
+# Cuca Italiana
+
 Sweet bread with a crumbly top. The name derives from German "Streußelkuchen", but while German colonists in Southern Brazil kept it identical to the mainland version, North Italian colonists took it and turned it into a tall loaf. 
 
 - ⏲️ Prep time: 2h 30min

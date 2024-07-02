@@ -5,6 +5,8 @@ author: benjamin-h
 tags: ['cheese', 'french', 'ham']
 ---
 
+# Quiche Lorraine - Lothringer Käsetorte
+
 - ⏲️ Prep time: 160 min
 - 🍳 Cook time: 30 min
 - 🍽️ Servings: 4

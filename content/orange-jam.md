@@ -5,6 +5,8 @@ tags: ['jam', 'fruit', 'sweet', 'spread']
 author: martin-chrzanowski
 ---
 
+# Orange jam
+
 This jam is a traditional topping for the Polish [mazurek](/mazurek), but
 can be used as a generic sweet spread.
 

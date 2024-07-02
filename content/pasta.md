@@ -5,6 +5,8 @@ tags: ['italian', 'pasta', 'quick', 'basic', 'fasting']
 author: luke-smith
 ---
 
+# Pasta (store bought)
+
 This is a simple outline of how to cook pasta.
 TL;DR: you boil it.
 Pasta is usually eaten with some kind of [pasta sauce](/pasta-sauce) or used in another dish.

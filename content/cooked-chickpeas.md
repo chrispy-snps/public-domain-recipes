@@ -5,6 +5,8 @@ tags: ['basic', 'beans', 'fasting']
 author: carl-zimmerman
 ---
 
+# Cooked Chickpeas
+
 Easy recipe for cooked chickpeas. Can be add to salads, rice, or almost anything else.
 
 - ⏲️ Prep time: 1 min

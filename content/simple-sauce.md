@@ -5,6 +5,8 @@ tags: ['basic', 'quick', 'sauce', 'cheesefare']
 author: el3ctr0lyte
 ---
 
+# Simple sauce
+
 This is a simple and well known recipe. It goes by many names and this recipe is a starting point for many sauces, eg '1000 island sauce'.
 
 ## Ingredients

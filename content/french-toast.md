@@ -5,7 +5,9 @@ tags: ['breakfast', 'french']
 author: ryan-wilson
 ---
 
-![French Toast](/pix/french-toast.webp)
+# French Toast
+
+![French Toast](../static/pix/french-toast.webp)
 
 This recipe results in five slices of easy to make french toast.
 

@@ -5,6 +5,8 @@ date: 2022-08-04
 author: joel-maxuel
 ---
 
+# Greek Salad
+
 - ⏲️ Prep time: 15 min
 - 🍽️ Servings: 4-6
 

@@ -5,7 +5,9 @@ tags: ['chicken', 'fry']
 author: yaroslav-smirnov
 ---
 
-![Juicy Pan-seared Chicken Fillet](/pix/pan-seared-chicken.webp)
+# Pan-seared Chicken Fillet
+
+![Juicy Pan-seared Chicken Fillet](../static/pix/pan-seared-chicken.webp)
 
 This is a quick and easy recipe to prepare delicious chicken fillets that are
 juicy on the inside, and crisp on the outside.

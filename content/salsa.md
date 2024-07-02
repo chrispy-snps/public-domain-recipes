@@ -5,6 +5,8 @@ date: 2022-04-16
 author: "Lars Henrik Bolstad"
 ---
 
+# Salsa
+
 - ⏲️ Prep time: 5 min
 - 🍳 Cook time: 0 min
 - 🍽️ Servings: 14

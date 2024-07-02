@@ -5,6 +5,8 @@ tags: ['quick', 'asian', 'cabbage']
 author: the-birchmen
 ---
 
+# Egg Roll in a Bowl
+
 Egg rolls, but, you know, in a bowl.
 
 - ⏲️  Prep time: 10 min

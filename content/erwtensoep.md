@@ -5,6 +5,8 @@ tags: ['dutch', 'soup', 'vegetables']
 author: rijk
 ---
 
+# Erwtensoep (Dutch pea soup)
+
 Erwtensoep, also called snert, is the Dutch version of pea soup.
 Slices of rookworst (smoked sausage) are added before serving. The soup, which is traditionally eaten during the winter, is emblematic of Dutch cuisine.
 It is customarily served with Frisian rye bread (roggebrood) and bacon, cheese or butter.

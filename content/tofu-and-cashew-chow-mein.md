@@ -5,6 +5,8 @@ date: 2022-09-10
 author: joel-maxuel
 ---
 
+# Tofu and Cashew Chow Mein
+
 Precooked thick wheat noodles are typically found in the refrigerated section of the supermarket. Preparing soba noodles is a worthy substitute.
 
 - ⏲️ Prep time: 15 min

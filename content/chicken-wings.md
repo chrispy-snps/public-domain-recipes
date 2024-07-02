@@ -5,6 +5,8 @@ tags: ['chicken', 'american']
 author: kyle-steger
 ---
 
+# Chicken Wings
+
 Perfectly cooked fall off the bone buffalo wings.
 
 ## Ingredients

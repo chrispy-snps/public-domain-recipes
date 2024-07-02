@@ -5,6 +5,8 @@ tags: ['tofu', 'fasting']
 author: kelvin-shadewing
 ---
 
+# Tofu Stir Fry
+
 A vegetarian dish that is easy to make and very flavorful. Goes well with rice or noodles
 
 Serves 3 to 5.

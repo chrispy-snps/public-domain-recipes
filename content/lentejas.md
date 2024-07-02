@@ -5,7 +5,9 @@ tags: ['spanish']
 author: nacchofer31
 ---
 
-![Lentejas](/pix/lentejas.webp)
+# Sopa de Lentejas
+
+![Lentejas](../static/pix/lentejas.webp)
 
 Traditional-spanish dish. Typical spanish!
 

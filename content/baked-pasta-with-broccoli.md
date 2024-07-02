@@ -5,7 +5,9 @@ tags: ['italian', 'pasta', 'broccoli', 'cheesefare']
 author: davide-costa
 ---
 
-![baked-pasta-with-broccoli](/pix/baked-pasta-with-broccoli.webp)
+# Baked pasta with broccoli, boiled eggs and scamorza cheese
+
+![baked-pasta-with-broccoli](../static/pix/baked-pasta-with-broccoli.webp)
 
 - ⏲️ Prep time: 15 min
 - 🍳 Cook time: 20~30 min

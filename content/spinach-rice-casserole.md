@@ -5,6 +5,8 @@ date: 2022-08-04
 author: joel-maxuel
 ---
 
+# Spinach-Rice Casserole
+
 - ⏲️ Prep time: 10 min
 - 🍳 Cook time: 40 min
 - 🍽️ Servings: 6

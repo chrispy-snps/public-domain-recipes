@@ -5,7 +5,9 @@ tags: ['sauce', 'basic', 'dressing']
 author: brox
 ---
 
-![burger-dressing](/pix/burger-dressing.webp)
+# Hamburger dressing
+
+![burger-dressing](../static/pix/burger-dressing.webp)
 
 A delicious home made hamburger dressing 🍔
 

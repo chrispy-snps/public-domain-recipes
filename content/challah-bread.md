@@ -5,6 +5,8 @@ tags: ['israeli', 'bread']
 author: siggines
 ---
 
+# Challah Bread
+
 A kind of braided bread preparation.
 
 - ⏲️ Prep time: 20 min

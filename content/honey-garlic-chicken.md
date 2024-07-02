@@ -5,6 +5,8 @@ tags: ['chicken', 'broccoli', 'rice', 'quick']
 author: "Connor McLean"
 ---
 
+# Honey Garlic Chicken with Broccoli and Brown Rice
+
 Very easy, high protein.
 
 - Servings: 2

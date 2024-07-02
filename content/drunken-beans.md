@@ -4,6 +4,8 @@ date: 2021-03-11
 tags: ['beans', 'stew']
 ---
 
+# Drunken beans (Pintos Borrachos)
+
 Pinto beans cooking with beer, what beer you use can change the dish.
 
 ## Ingredients

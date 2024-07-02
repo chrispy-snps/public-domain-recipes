@@ -5,6 +5,8 @@ tags: ['pork', 'slowcooked', 'mexican']
 author: "sam"
 ---
 
+# Slow-cooked Pork Carnitas
+
 This recipe makes a lot and is super easy. A whole roast usually makes enough for a few meals (depending on how many people will be eating it). Leftovers can be refrigerated for 4-5 days.
 
 - ⏲️ Prep time: 15 min

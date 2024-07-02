@@ -5,6 +5,8 @@ tags: ['breakfast', 'quick', 'basic', 'eggs']
 author: "Linux Lounge"
 ---
 
+# Breakfast Wrap
+
 The basic parts of a full English in a wrap. Inspired by McDonald's breakfast wraps.
 
 - ⏲️ Prep time: 5 min

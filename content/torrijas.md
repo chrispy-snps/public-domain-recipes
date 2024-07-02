@@ -5,7 +5,9 @@ tags: ['spanish', 'dessert', 'quick', 'easter']
 author: danoloan
 ---
 
-![Torrijas](/pix/torrijas.webp)
+# Torrijas
+
+![Torrijas](../static/pix/torrijas.webp)
 
 Torrijas are a spanish dessert traditionally eaten during the Holy Week (Easter).
 It is said they were first cooked using the leftovers from the Lent.

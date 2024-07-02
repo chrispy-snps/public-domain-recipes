@@ -5,6 +5,8 @@ tags: ['italian', 'chicken']
 author: luke-smith
 ---
 
+# Chicken Parmesan
+
 The recipe that started this very site.
 
 ## Ingredients

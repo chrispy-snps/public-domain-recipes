@@ -5,6 +5,8 @@ tags: ['mexican', 'beef', 'beans']
 author: aaron-taylor
 ---
 
+# Chili Con Carne
+
 ## Ingredients
 
 - Canned Whole Peeled Tomatoes

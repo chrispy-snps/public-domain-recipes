@@ -5,6 +5,8 @@ tags: ['american', 'beef']
 author: luke-smith
 ---
 
+# Beef Stroganoff
+
 This is American-style stroganoff.
 
 ## Ingredients

@@ -5,6 +5,8 @@ tags: ['sauce', 'mexican']
 author: joe-powerhouse
 ---
 
+# Corn Salsa
+
 - ⏲️ Prep time: 10 Minutes
 - 🍳 Cook time: 1 Hour+ in fridge
 

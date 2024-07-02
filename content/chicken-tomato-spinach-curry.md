@@ -5,6 +5,8 @@ tags: ['curry', 'chicken']
 author: luke-goule
 ---
 
+# Chicken, Tomato and Spinach Curry
+
 This dish is a very simple and tasty curry that can be made with minimal ingredients, but pairs amazingly with anything else one may want in a curry (i.e. ginger, lemongrass).
 Note: You may also need a blender / food processor.
 

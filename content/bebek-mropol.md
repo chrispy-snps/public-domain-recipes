@@ -5,6 +5,8 @@ date: 2022-02-20
 author: maxime-desmetvds
 ---
 
+# Bebek Mropol
+
 Bebek Mprol is a traditional Indonesian dish made with duck, coconut milk, and
 spices. It has a rich and savory flavor with a slightly sweet and tangy taste
 from the tamarind paste.

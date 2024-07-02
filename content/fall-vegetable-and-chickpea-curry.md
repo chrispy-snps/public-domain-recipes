@@ -5,6 +5,8 @@ date: 2022-08-09
 author: joel-maxuel
 ---
 
+# Fall Vegetable and Chickpea Curry
+
 Can be served over rice or on its own with a dollop of yogurt.
 
 - ⏲️ Prep time: 15 min

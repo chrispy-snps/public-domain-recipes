@@ -5,6 +5,8 @@ tags: ['fish', 'cheesefare']
 author: oq-olarte
 ---
 
+# Broiled Trevally
+
 Well, it's actually a *giant* trevally, and if you have seen one, that fish looks ugly.
 So here's a recipe to make it look---and taste!---more appealing.
 

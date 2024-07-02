@@ -5,6 +5,8 @@ tags: ['japanese', 'pork']
 author: jon-paul-uritis
 ---
 
+# Miso Ginger Pork
+
 ## Ingredients
 
 - ground pork

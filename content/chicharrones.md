@@ -4,6 +4,8 @@ date: 2021-03-20
 tags: ['mexican', 'pork']
 ---
 
+# Chicharrones
+
 ## Ingredients
 - Pork Butt with fat
 - Adobo Goya all purpose

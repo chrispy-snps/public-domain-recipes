@@ -5,7 +5,9 @@ date: 2023-03-27
 author: magikarp-salesman
 ---
 
-![Meringe Lemon Pie](/pix/tarte-merengada.webp)
+# Tarte Merengada de Limão
+
+![Meringe Lemon Pie](../static/pix/tarte-merengada.webp)
 
 This lemon meringue pie is a delicious dessert. Ideal for those with a sweet tooth, it is very easy to make and is ready in just half an hour. Enjoy!
 

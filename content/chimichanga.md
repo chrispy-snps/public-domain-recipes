@@ -5,6 +5,8 @@ tags: ['mexican', 'beef', 'basic']
 author: aj
 ---
 
+# Chimichanga
+
 Essentially, just a fried burrito. Use whatever your favorite filling is.
 
 - ⏲️ Prep time: 120min

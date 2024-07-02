@@ -5,6 +5,8 @@ date: 2022-06-23
 author: "Nic Trib"
 ---
 
+# Puff Pastry
+
 A basic puff pastry recipe that can replace any recipe that calls for puff pastry.
 
 - ⏲️ Prep time: ~1.5 hrs

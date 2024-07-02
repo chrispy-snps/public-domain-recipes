@@ -5,6 +5,8 @@ date: 2022-11-16
 author: "bernardo-slongo"
 ---
 
+# Galinha Caipira
+
 Chicken stew ubiquitous in rural Brazil. Perfect pair with rice and beans, polenta or boiled cassava root.
 
 - ⏲️ Prep time: 30 min

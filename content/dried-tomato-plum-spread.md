@@ -5,6 +5,8 @@ tags: ['bread', 'quick', 'snack', 'spread', 'fasting']
 author: patryk-niedźwiedziński
 ---
 
+# Dried tomato & plum bread spread
+
 Quick and simple bread spread.
 
 ## Ingredients

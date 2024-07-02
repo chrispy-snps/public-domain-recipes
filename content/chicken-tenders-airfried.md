@@ -5,6 +5,8 @@ tags: ['chicken', 'fry']
 author: mental-outlaw
 ---
 
+# Chicken Tenders Airfried
+
 - ⏲️ Prep time: 5 min
 - 🍳 Cook time: 20 min
 

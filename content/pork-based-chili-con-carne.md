@@ -5,6 +5,8 @@ tags: ['mexican', 'beans', 'pork']
 author: siggines
 ---
 
+# Chilli con Carne
+
 Thinly minced and non-lean mince is preferred.
 Spices shall be left to the choice of the cook, if at all desired.
 Mince should be broken up well before cooking.

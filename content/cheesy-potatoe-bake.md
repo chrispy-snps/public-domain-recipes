@@ -5,6 +5,8 @@ tags: ['american', 'cheese', 'potato']
 author: "Kyle Johnson and Sabina Mortensen"
 ---
 
+# Cheesy Potato Bake
+
 Potatoes baked in a dish smothered with cheese, what's not to love?
 
 **You will need a deep dish that is oven safe**

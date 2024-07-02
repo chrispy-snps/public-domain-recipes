@@ -5,6 +5,8 @@ date: 2022-06-29
 tags: ['snack', 'side', 'dough']
 ---
 
+# 'Butter-based biscuit and cookies'
+
 This recipe is some basic recommandations for making butter based biscuits (aka shortbread, sablés, cookies ...). The complexity comes from the presence of butter mostly.
 
 - ⏲️ Prep time: 10 min

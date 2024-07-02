@@ -5,6 +5,8 @@ tags: ['vegetables', 'side', 'duck']
 author: "Jayson"
 ---
 
+# Collard Greens with Smoked Duck and Parsnips
+
 This dish was a pandemic leftover invention loosely inspired by Ethiopian gomen. It can be served as a side dish, but we eat it an an entree. If you intend it as a side dish, then this serves 4. The smoked duck adds a bit of saltiness, so it's better to season to taste after cooking. Serve with good quality, crusty bread.
 
 - ⏲️ Prep time: 20 min

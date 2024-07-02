@@ -5,6 +5,8 @@ date: 2022-08-09
 author: joel-maxuel
 ---
 
+# Panang-Style Beef Curry
+
 - ⏲️ Prep time: 10 min
 - 🍳 Cook time: 315 min
 - 🍽️ Servings: 4

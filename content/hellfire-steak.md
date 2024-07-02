@@ -5,6 +5,8 @@ tags: ['beef', 'quick']
 author: jacob-smith
 ---
 
+# Hellfire Steak
+
 I first learned this recipe from a Bishop I had growing up. It produces quite a good steak despite the unconventional ingredients.
 
 ## Ingredients

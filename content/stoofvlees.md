@@ -5,6 +5,8 @@ tags: ['beef', 'stew', 'belgian']
 author: yiusa
 ---
 
+# Stoofvlees
+
 This is a traditional belgian stew made with cheap, though beef cuts, beer and onions.
 Traditionally eaten with fries and chicory salad.
 

@@ -5,6 +5,8 @@ date: 2022-05-19
 author: "Matthew"
 ---
 
+# Potato Soup
+
 Serves many people or one person for many days.
 
 ## Ingredients

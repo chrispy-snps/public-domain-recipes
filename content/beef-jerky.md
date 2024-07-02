@@ -5,6 +5,8 @@ tags: ['beef', 'snack']
 author: elias-howell
 ---
 
+# Beef Jerky
+
 Beef Jerky is ideal for road trips and camping, as it will not perish as readily as fresh meat.
 It is suitable not only as a snack but also as a meal.
 This recipe for jerky is not heavily brined and flavored as commercial jerky is.

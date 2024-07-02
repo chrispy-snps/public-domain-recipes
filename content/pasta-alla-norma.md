@@ -5,6 +5,8 @@ tags: ['italian', 'pasta', 'fasting']
 author: james-kent
 ---
 
+# Pasta Alla Norma
+
 A delicious Sicilian pasta dish, with Aubergines in a tomato sauce topped with fresh basil.
 
 - ⏲️ Prep time: 15 min

@@ -5,6 +5,8 @@ tags: ['american', 'fish', 'breakfast']
 author: carl-zimmerman
 ---
 
+# Shrimp and Grits
+
 This recipe is derived from Smokin' & Grillin' wit AB -- [youtube](https://youtu.be/cjlDBPlTqS0)
 
 - ⏲️ Prep time: 5 min

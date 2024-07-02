@@ -5,7 +5,9 @@ tags: ['dessert', 'quick', 'brazilian', 'cheesefare']
 author: daniel-kemmerich
 ---
 
-![Brigadeiro](/pix/brigadeiro.webp)
+# Brigadeiro
+
+![Brigadeiro](../static/pix/brigadeiro.webp)
 
 A very traditional Brazilian dessert that is present in every Brazilian birthday party! Delicious and super easy to make.
 

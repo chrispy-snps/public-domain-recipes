@@ -5,6 +5,8 @@ tags: ['basic', 'cheesefare']
 author: "SuperDuperDeou" 
 ---
 
+# Cheese 
+
 The success of this recipe depends entirely on the quality of the milk. The fresher the milk the better. Your regular UHT milk won't work, because the necessary bacteria have been killed.
 
 You do not necessary need cow milk, basically every animal milk will work, but the cheese will have vastly different (not necessarily worse) characteristics.

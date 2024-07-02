@@ -5,6 +5,8 @@ tags: ['american', 'quick', 'beef', 'basic']
 author: "James Hendrie"
 ---
 
+# Hamburger Patties
+
 🍽️ Servings: 4 patties
 
 ## Ingredients

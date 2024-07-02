@@ -4,6 +4,8 @@ tags: ['chicken', 'slowcooked', 'indian']
 date: 2022-04-16
 ---
 
+# Chicken Tikka Masala
+
 - ⏲️ Prep time: 25 min
 - 🍳 Cook time: 4 hours
 - 🍽️ Servings: 8

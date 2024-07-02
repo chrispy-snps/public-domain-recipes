@@ -5,6 +5,8 @@ date: 2023-01-06
 author: elias-pahls
 ---
 
+# Zurich-Style Meat Saute
+
 Originally called  "Züri Gschnätzlets" (Zurich chopped) from the city of Zurich
 in Switzerland, this is a tasty and practical recipe from simple ingredients.
 You can use any kind of meat really, depending on your taste. Very

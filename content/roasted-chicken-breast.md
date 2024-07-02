@@ -5,6 +5,8 @@ tags: ['chicken', 'roast']
 author: michael
 ---
 
+# Roasted chicken breast
+
 How to roast chicken breast with a "leave-in" probe thermometer. The thermometer ensures the chicken comes out juicy and delicious.
 
 ## Ingredients

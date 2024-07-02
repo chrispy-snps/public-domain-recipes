@@ -4,6 +4,8 @@ date: 2021-03-21
 tags: ['chicken', 'spicy']
 ---
 
+# Nashville Chicken Sandwich
+
 If you love spicy foods and chicken then this Nashville Hot Chicken sandwich recipe is just for you. It takes some time with prepping and process but when you take that first bite all the effort will be worth it. It’s unlike any other fried chicken recipe that includes double frying your chicken and using the same cooking oil from your fry as a sauce for the Nashville Hot Chicken spice.
 
 Nashville Hot Chicken was invented by a man named Thorton Prince. It is said that he came home late one night and whipped this dish up randomly. Could you imagine creating this staple of a dish late night after coming home from an evening of festivities, blows my mind. Let’s get into the recipe now.

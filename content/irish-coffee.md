@@ -5,6 +5,8 @@ tags: ['drink', 'sweet', 'breakfast']
 author: front3ndninja
 ---
 
+# Irish Coffee
+
 - ⏲️ Prep time: 5 min
 - 🍳 Cook time: 5 min
 - 🍽️ Servings: 1

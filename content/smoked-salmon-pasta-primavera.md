@@ -5,6 +5,8 @@ date: 2022-09-11
 author: joel-maxuel
 ---
 
+# Smoked Salmon Pasta Primavera
+
 
 - ⏲️ Prep time: 20 min
 - 🍳 Cook time: 15 min

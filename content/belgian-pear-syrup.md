@@ -5,6 +5,8 @@ tags: ['syrup', 'fruit', 'belgian']
 author: yiusa
 ---
 
+# Belgian pear syrup
+
 A delicious syrup that can be eaten on bread and used in a multitude of recipes.
 
 - ⏲️ Prep time: 30 min

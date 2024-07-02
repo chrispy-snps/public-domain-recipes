@@ -5,6 +5,8 @@ tags: ['mexican', 'chicken', 'slowcooked']
 author: luke-smith
 ---
 
+# Slow-cooked Chicken Tacos
+
 ## Ingredients
 
 - chicken breasts

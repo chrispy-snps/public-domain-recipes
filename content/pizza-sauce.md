@@ -5,6 +5,8 @@ tags: ['basic', 'pizza', 'sauce']
 author: brox
 ---
 
+# Pizza sauce
+
 - ⏲️ Prep time: 10 min
 - 🍳 Cook time: 0.5-2 hours
 

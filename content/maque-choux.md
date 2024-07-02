@@ -5,6 +5,8 @@ tags: ['american', 'corn', 'fasting']
 author: dr-cat
 ---
 
+# Maque Choux
+
 An old cajun recipe for stewed corn & tomatoes. Enjoyable at any time of year, but I love to make it on hot summer afternoons as a side to
 a sausage dish. Pairs well with brown ales.
 

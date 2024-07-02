@@ -5,6 +5,8 @@ date: 2022-12-30
 author: elias-pahls
 ---
 
+# 'Kombucha'
+
 The simple yet comprehensive guide to making tasty kombucha. This is intended
 to give you an initial overview of the process. I strongly encourage you to
 experiment with brewing times, teas, flavors, etc. The scoby is extremely

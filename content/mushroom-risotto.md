@@ -5,6 +5,8 @@ tags: ['italian', 'mushrooms', 'wine', 'rice']
 author: robert5800
 ---
 
+# Mushroom risotto
+
 - ⏲️ Prep time: 5 min
 - 🍳 Cook time: 20-30 min
 - 🍽️ Servings: 4

@@ -5,6 +5,8 @@ date: 2022-09-10
 author: joel-maxuel
 ---
 
+# Irish Potato Casserole
+
 - ⏲️ Prep time: 5 min
 - 🍳 Cook time: 45 min
 - 🍽️ Servings: 6

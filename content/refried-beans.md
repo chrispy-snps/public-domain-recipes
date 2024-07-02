@@ -5,7 +5,9 @@ tags: ['mexican', 'beans', 'fasting']
 author: yaroslav-smirnov
 ---
 
-![Refried Beans](/pix/refried-beans.webp)
+# Refried Beans
+
+![Refried Beans](../static/pix/refried-beans.webp)
 
 One of my favorite dishes that works either as an appetizer or side dish is
 refried beans. A classic from Mexican cuisine, that is best eaten with some

@@ -5,6 +5,8 @@ tags: ['potato', 'quick', 'side', 'fasting']
 author: themisch
 ---
 
+# Fried Potatoes
+
 ## Ingredients
 - Potatoes
 - Oil or Crème Fraîche

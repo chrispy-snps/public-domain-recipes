@@ -5,9 +5,11 @@ tags: ['spicy', 'curry', 'lentil', 'fasting']
 author: sinan-kurtulmuş
 ---
 
+# Lenten Lentil Curry
+
 Simple green lentil recipe. Suitable for Lent.
 
-![Lenten Lentil Curry](/pix/lenten-lentil-curry.webp)
+![Lenten Lentil Curry](../static/pix/lenten-lentil-curry.webp)
 
 - Prep time: 5 min
 - Cook time: 30-35 min

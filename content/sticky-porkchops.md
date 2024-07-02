@@ -5,6 +5,8 @@ tags: ['japanese', 'pork', 'soup']
 author: jake-keast
 ---
 
+# Sticky Porkchops
+
 Simple chinese inspired sticky porkchops.
 
 - ⏲️ Prep time: 3 hours

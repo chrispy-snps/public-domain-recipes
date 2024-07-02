@@ -5,6 +5,8 @@ tags: ['austrian', 'bacon', 'potato']
 author: peter-wilbrink
 ---
 
+# Tiroler Gröstl
+
 - ⏲️  Prep time: 15 min
 - 🍳 Cook time: 30 min
 - 🍽️ Servings: 5

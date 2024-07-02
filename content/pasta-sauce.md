@@ -5,6 +5,8 @@ tags: ['italian', 'basic', 'sauce', 'fasting']
 author: luke-smith
 ---
 
+# Pasta sauce
+
 This is very simple pasta sauce.
 Unlike modern store-bought sauces, there is no added sugar, only the subtle taste of San Marzano tomatoes.
 

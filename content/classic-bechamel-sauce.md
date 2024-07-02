@@ -5,6 +5,8 @@ tags: ['basic', 'sauce', 'french', 'italian']
 author: yiusa
 ---
 
+# Classic béchamel sauce
+
 Classic French sauce, base for a lot of dishes
 
 - ⏲️ Prep time: 0m

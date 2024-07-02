@@ -5,6 +5,8 @@ tags: ['french', 'seafood', 'soup']
 author: yiusa
 ---
 
+# Lobster bisque
+
 Creamy french lobster soup perfect for the holidays, you can optionally replace the lobster with any other shellfish.
 
 - ⏲️ Prep time: 20

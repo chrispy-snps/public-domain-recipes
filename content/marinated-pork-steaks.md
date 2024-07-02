@@ -5,6 +5,8 @@ tags: ['pork', 'steak']
 author: ricky-linden
 ---
 
+# Marinated pork steaks 
+
 A tasty simple marinade that fits well with pork.
 
 - ⏲️ Prep time: 35 minutes

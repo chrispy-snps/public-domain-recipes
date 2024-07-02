@@ -5,6 +5,8 @@ tags: ['french', 'soup']
 author: joe-powerhouse
 ---
 
+# French Onion Soup
+
 - ⏲️ Prep time: 30 min
 - 🍳 Cook time: 3 hours
 - 🍽️ Servings: 5

@@ -5,6 +5,8 @@ tags: ['filipino', 'squash']
 author: jacob-smith
 ---
 
+# Ginataang Kalabasa
+
 Or "Squash in Coconut Milk". This is a common Filipino dish.
 
 - ⏲️ Prep time: 10 min

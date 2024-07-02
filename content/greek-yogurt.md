@@ -5,6 +5,8 @@ tags: ['basic', 'cheesefare']
 author: "SuperDuperDeou" 
 ---
 
+# Greek Yogurt
+
 ## Ingredients
 
 - 2 thermos, ½l capacity each

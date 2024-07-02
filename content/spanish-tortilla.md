@@ -5,7 +5,9 @@ tags: ['spanish', 'potato', 'eggs', 'tortilla']
 author: octopusonfire
 ---
 
-![Spanish Tortilla](/pix/spanish-tortilla.webp)
+# Spanish Tortilla
+
+![Spanish Tortilla](../static/pix/spanish-tortilla.webp)
 
 - ⏲️ Prep time: 5 min
 - 🍳 Cook time: 35 min

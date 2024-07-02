@@ -5,6 +5,8 @@ tags: ['drink', 'sweet', 'breakfast']
 author: front3ndninja
 ---
 
+# Coconut Oil Coffee
+
 - 🍽️ Servings: 1
 
 ## Ingredients

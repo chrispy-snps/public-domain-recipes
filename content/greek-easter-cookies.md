@@ -5,6 +5,8 @@ tags: ['dessert', 'cookies', 'snack', 'greek', 'easter']
 author: "Rufflikerex"
 ---
 
+# Greek Easter Cookies
+
 A very simple, delicious, and traditional greek recipe for easter cookies.
 
 - ⏲️ Prep time: 30-45 min

@@ -5,6 +5,8 @@ date: 2022-09-11
 author: joel-maxuel
 ---
 
+# Exotic Ginger Cumin Chicken
+
 
 - ⏲️ Prep time: 15 min
 - 🍳 Cook time: 20 min

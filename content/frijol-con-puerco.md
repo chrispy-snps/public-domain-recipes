@@ -5,6 +5,8 @@ date: 2022-04-16
 author: bianca-purin
 ---
 
+# Frijol con puerco
+
 - ⏲️ Prep time: 10 min
 - 🍳 Cook time: 45 ~ 60 min
 - 🍽️ Servings: 8

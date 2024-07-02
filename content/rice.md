@@ -5,6 +5,8 @@ tags: ['basic', 'rice', 'side', 'fasting']
 author: luke-smith
 ---
 
+# Rice
+
 Rice is easy to make in any pot.
 The simple use of different spices can change its use or what it accents.
 

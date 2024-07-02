@@ -5,6 +5,8 @@ tags: ['asian', 'chicken']
 author: jacob-smith
 ---
 
+# Stir Fried Chicken with an Orange Sauce
+
 I could have called this Orange Chicken but I feel like some people wouldn't classify my recipe that way.
 
 ## Ingredients

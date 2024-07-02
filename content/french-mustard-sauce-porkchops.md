@@ -5,6 +5,8 @@ tags: ['french', 'pork', 'quick']
 author: "1FJSSps89rEMtYm8Vvkp2uyTX9MFpZtcGy"
 ---
 
+# French mustard sauce porkchops (Côtes de porc charcutières)
+
 French bistrot style porkchops with a mustard, white wine and gherkins sauce. Very quick to cook.
 
 - 🍽️ Servings: 4

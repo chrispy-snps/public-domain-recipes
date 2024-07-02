@@ -5,6 +5,8 @@ date: 2022-08-04
 author: joel-maxuel
 ---
 
+# Shrimp and Chicken Jambalaya
+
 Warm up your stock with raw shrimp shells to infuse additional flavour, if desired. Serve dish with french bread and your favourite beer.
 
 - ⏲️ Prep time: 20 min

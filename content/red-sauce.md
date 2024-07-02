@@ -5,6 +5,8 @@ tags: ['italian', 'sauce']
 author: laurent-micheli
 ---
 
+# Red Sauce (Ragu all'Italiana)
+
 My great-grandma's red sauce. All purpose: good for pastas, lasagnas, subs, etc.
 
 - ⏲️ Prep time: 12 mins

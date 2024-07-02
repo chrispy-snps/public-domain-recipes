@@ -5,6 +5,8 @@ date: 2022-08-09
 author: joel-maxuel
 ---
 
+# Ham and Lentil Soup
+
 For more flavour, boil down a soup bone and use the broth when filling the crock pot.
 
 - ⏲️ Prep time: 5 min

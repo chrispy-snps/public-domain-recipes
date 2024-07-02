@@ -5,6 +5,8 @@ tags: ['pasta', 'supper', 'dominican', 'cheesefare']
 author: carl-zimmerman
 ---
 
+# Dominican Spaghetti
+
 - ⏲️ Prep time: 10 min
 - 🍳 Cook time: 25 min
 - 🍽️ Servings: 4

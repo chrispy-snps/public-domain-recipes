@@ -5,6 +5,8 @@ tags: ['basic', 'breakfast', 'cheesefare']
 author: "italian boy"
 ---
 
+# Yogurt
+
 ## Ingredients
 
 - 2 thermos, ½l capacity each

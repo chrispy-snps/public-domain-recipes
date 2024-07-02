@@ -5,6 +5,8 @@ tags: ['breakfast', 'pasta']
 author: sadoon-albader
 ---
 
+# Quick Breakfast Spaghetti
+
 A quick breakfast spaghetti recipe that covers a healthy amount of carbs, fat, and spices. Eggs
 and/or bacon can be added to cover some protein, you should cook those while the boiler is cooking
 the spaghetti for time efficiency.

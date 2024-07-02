@@ -5,6 +5,8 @@ date: 2022-09-11
 author: joel-maxuel
 ---
 
+# Three Bean Salad
+
 Easy recipe to expand - black turtle beans and chickpeas also work well here.
 
 - ⏲️ Prep time: 10 min

@@ -5,6 +5,8 @@ tags: ['sweet', 'breakfast', 'quick', 'fasting']
 author: martin-chrzanowski
 ---
 
+# Oats
+
 Oats are great for breakfast. On their own they're pretty bland, but become
 great when you add some things to the bowl. This recipe offers some suggestions
 on what to add, but is by no means a comprehensive overview of what you can do

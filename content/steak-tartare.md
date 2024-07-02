@@ -5,6 +5,8 @@ date: 2022-05-22
 author: dunkelheit-biz
 ---
 
+# Steak Tartare
+
 Steak Tartare is a dish prepared using raw ground / minced beef and egg yolk. A popular dish in Europe, this recipe is a good stepping stone into the world of raw meats, organs and pates.
 
 - ⏲️ Prep time: 10 min

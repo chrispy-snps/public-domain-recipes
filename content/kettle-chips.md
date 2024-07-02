@@ -4,6 +4,8 @@ date: 2022-06-29
 tags: ['snack', 'quick', 'potato']
 ---
 
+# 'Kettle Chips'
+
 Credits to creator of recipe, Ethan Chlebowski, [(original recipe)](https://www.ethanchlebowski.com/cooking-techniques-recipes/kettle-cooked-chips).
 I decided to post it on here to be more available.
 

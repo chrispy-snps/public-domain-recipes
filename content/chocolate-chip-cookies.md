@@ -5,7 +5,9 @@ tags: ['dessert', 'cookies', 'sweet', 'chocolate']
 author: mfed3
 ---
 
-![Chocolate Chip Cookies](/pix/chocolate-chip-cookies.webp)
+# Chocolate Chip Cookies 
+
+![Chocolate Chip Cookies](../static/pix/chocolate-chip-cookies.webp)
 
 - ⏲️ Prep time: 10 min
 - 🍳Cook time: 10 min

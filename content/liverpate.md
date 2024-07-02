@@ -5,6 +5,8 @@ tags: ['pate', 'liver']
 author: vod3
 ---
 
+# Liver Pate
+
 Good start for trying to eat more organs.
 It even tastes very nice.
 The last step before eating it raw someday.

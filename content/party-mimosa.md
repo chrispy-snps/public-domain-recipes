@@ -5,6 +5,8 @@ tags: ['drink', 'sweet', 'breakfast']
 author: front3ndninja
 ---
 
+# Party Mimosa
+
 ## Ingredients
 
 - 1 (12 ounce) can apricot-mango nectar

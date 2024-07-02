@@ -5,6 +5,8 @@ tags: ['greek', 'feta', 'pasta', 'supper']
 author: peepopoggers
 ---
 
+# Baba's Feta Pasta
+
 Greek Pasta Recipe with sauce made out of feta, stock, cream cheese and other ingredients.
 Uses mixed spice for special flavour, and is a great dinner or mid-day meal.
 

@@ -5,7 +5,9 @@ date: 2023-05-04
 author: albert-elmore
 ---
 
-![kropsua](/pix/kropsua.webp)
+# Kropsua (Finnish Baked Pancake)
+
+![kropsua](../static/pix/kropsua.webp)
 
 Served best with coffee, sausage, bacon, or fresh fruit for breakfast. 
 

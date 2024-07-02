@@ -5,7 +5,9 @@ tags: ['dessert', 'sweet', 'snack', 'cake', 'fasting']
 author: lukasz-drukala
 ---
 
-![banana-muffins](/pix/banana-muffins.webp)
+# Banana Muffins with Chocolate
+
+![banana-muffins](../static/pix/banana-muffins.webp)
 
 - ⏲️ Prep time: 15 min
 - 🍳 Cook time: 30 min

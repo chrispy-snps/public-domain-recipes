@@ -5,6 +5,8 @@ date: 2022-08-09
 author: joel-maxuel
 ---
 
+# Newfoundland Cod Chowder
+
 - ⏲️ Prep time: 10 min
 - 🍳 Cook time: 30 min
 - 🍽️ Servings: 8

@@ -5,6 +5,8 @@ tags: ['swiss', 'cheese']
 author: sekthor
 ---
 
+# Fondue
+
 A swiss classic for cold winter dinners.
 Traditionally cooked in a "Caquelon" pot and served on a candle heated stove, to keep the cheese from going solid again.
 

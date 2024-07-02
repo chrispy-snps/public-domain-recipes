@@ -4,6 +4,8 @@ date: 2021-03-13
 tags: ['american', 'quick', 'beef', 'sandwich']
 ---
 
+# Hamburger Patties
+
 🍽️ Servings: 6 patties
 
 ## Ingredients

@@ -5,6 +5,8 @@ tags: ['beans', 'italian', 'salad']
 author: carl-zimmerman
 ---
 
+# Cannellini Bean Salad
+
 - ⏲️ Prep time: 5 min
 - 🍳 Cook time: 10 min
 - 🍽️ Servings: 2

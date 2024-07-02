@@ -5,7 +5,9 @@ tags: ['chinese', 'snack', 'breakfast']
 date: 2022-05-31
 ---
 
-![Dou-Sha-Bao](/pix/dou-sha-bao.webp)
+# Red Bean Buns (豆沙包)
+
+![Dou-Sha-Bao](../static/pix/dou-sha-bao.webp)
 
 Soft and fluffy sweet buns filled-up with creamy Azuki red bean paste.
 

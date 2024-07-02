@@ -4,6 +4,8 @@ date: 2021-06-05
 tags: ['basic', 'snack', 'australian', 'pork']
 ---
 
+# Aussie Snags (sausage sizzle)
+
 An Australian BBQ classic tradition that is simple and very easy to make. Great for parties and outdoor events
 especially national events. Sometimes served at hardware chains.
 

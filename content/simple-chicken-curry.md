@@ -6,6 +6,8 @@ author: "lsma"
 
 ---
 
+# Simple Chicken Curry
+
 An easy chicken curry recipe which scales very well (double it, triple it, etc.).  Best served with rice.
 
 Servings: 3-4

@@ -5,6 +5,8 @@ date: 2022-04-16
 author: "tom-fasano"
 ---
 
+# Sardine Cakes
+
 Can be served with a Spicy Yogurt Sauce as Tapas or Hors D’Oeuvres.
 
 - ⏲️ Prep time: 10 min

@@ -4,6 +4,8 @@ date: 2021-03-12
 tags: ['eggs', 'quick', 'cheesefare']
 ---
 
+# Omelet
+
 - ⏲️ Prep time: 10 min
 - 🍳 Cook time: ≈ 30 min
 - 🍽️ Servings: 4 Omelets

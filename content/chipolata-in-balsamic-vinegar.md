@@ -5,6 +5,8 @@ date: 2022-07-27
 author: "Kensix"
 ---
 
+# Chipolata Sausage in Balsamic Vinegar
+
 Easy to prepare Italian dish with lots of flavour great for a relaxing evening dipping bread and sipping wine.
 
 - ⏲️ Prep time: 5 min

@@ -5,6 +5,8 @@ tags: ['thai', 'fish']
 author: thijs-wester
 ---
 
+# Fish Curry
+
 Best served with white rice
 
 - 🍳 Cook time: 30 min

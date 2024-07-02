@@ -5,6 +5,8 @@ tags: ['basic', 'pizza', 'dough']
 author: brox
 ---
 
+# No-knead pizza dough
+
 Perfect for pan pizza in an 11 inch iron skillet.
 
 - ⏲️ Prep time: 5 min

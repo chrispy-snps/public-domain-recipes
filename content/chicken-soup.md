@@ -5,6 +5,8 @@ tags: ['chicken', 'soup']
 author: aj
 ---
 
+# Chicken Soup
+
 Hearty soup that is adaptable to customizing to your desired vegetables or other additions
 
 - ⏲️ Prep time: 30 min

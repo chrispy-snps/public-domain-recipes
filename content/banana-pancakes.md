@@ -5,6 +5,8 @@ tags: ['breakfast', 'quick', 'sweet', 'pancake', 'cheesefare']
 author: ricky-linden
 ---
 
+# Banana Pancakes
+
 - ⏲️ Prep time: 10 minutes
 - 🍳 Cook time: 10 minutes
 - 🍽️ Servings: 4 people

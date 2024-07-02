@@ -5,6 +5,8 @@ date: 2022-08-09
 author: joel-maxuel
 ---
 
+# Cheddar-Crusted Chicken
+
 Suggested sides: Roasted green beans as well as sweet potatoes mashed with sour cream and butter
 
 - ⏲️ Prep time: 10 min

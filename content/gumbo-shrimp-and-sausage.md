@@ -5,6 +5,8 @@ tags: ['american', 'fish', 'rice']
 author: carl-zimmerman
 ---
 
+# Shrimp and Sausage Gumbo
+
 This recipe is a simplified version of AB's Seafood Gumbo -- [youtube](https://youtu.be/XuiKYWb7s5o)
 
 - ⏲️ Prep time: 15 min

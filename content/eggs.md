@@ -5,6 +5,8 @@ tags: ['eggs', 'basic', 'cheesefare']
 author: martin-chrzanowski
 ---
 
+# Eggs
+
 Eggs are great. This page will contain all sorts of "basic" ways of having an
 egg. Feel free to suggest more, as per the instructions on the
 [homepage](/index.html).

@@ -5,6 +5,8 @@ tags: ['breakfast', 'quick', 'sweet', 'pancake', 'cheesefare']
 author: "Puremana"
 ---
 
+# Oaty Pancakes
+
 - ⏲️ Prep time: 10 min
 - 🍳 Cook time: 10 min
 - 🍽️ Servings: 4

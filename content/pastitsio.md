@@ -5,6 +5,8 @@ date: 2022-06-17
 author: 'prox'
 ---
 
+# Pastítsio
+
 - ⏲️  Prep time: 15 min
 - 🍳 Cook time: 50 min
 - 🍽️ Servings: 6-8

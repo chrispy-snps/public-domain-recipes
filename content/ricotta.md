@@ -5,6 +5,8 @@ tags: ['basic', 'italian','cheesefare']
 author: "SuperDuperDeou"
 ---
 
+# Ricotta
+
 The ricotta is an Italian cheese made by cooking the whey (liquid byproduct of the cheese production), by cooking it at an high temperature (80-90°C), hence the name "ricotta", which means "cooked again". Even though it's typically made from the whey, you can make it directly from the milk as well.
 
 ## Ingredients

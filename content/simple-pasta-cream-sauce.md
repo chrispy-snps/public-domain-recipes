@@ -5,6 +5,8 @@ tags: ['basic', 'quick', 'sauce', 'pasta']
 author: "herzeleid02"
 ---
 
+# Simple Creamy Pasta Sauce
+
 - ⏲️  Prep time: 2 min
 - 🍳  Cook time: 3 mins
 - 🍽️  Servings: 1

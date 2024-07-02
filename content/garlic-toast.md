@@ -5,6 +5,8 @@ tags: ['basic', 'bread', 'quick', 'side']
 author: jack-crawford
 ---
 
+# Garlic Toast
+
 Garlic toast, perfect as a substitute for crackers in a cheese platter.
 
 - ⏲️ Prep time: 5 min

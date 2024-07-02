@@ -5,6 +5,8 @@ tags: ['basic', 'sauce', 'japanese']
 author: "scary90"
 ---
 
+# Spicy Mayo
+
 A simple sauce that is at almost every sushi bar in the United States.
 
 - ⏲️ Prep time: 3 min
